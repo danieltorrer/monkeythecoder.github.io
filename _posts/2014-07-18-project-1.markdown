@@ -1,4 +1,5 @@
 ---
+title: PLOG
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -7,6 +8,6 @@ alt: image-alt
 project-date: March 2015
 client: HackCDMX
 category: Web Development and Mobile Application Development
-description: http://noticieros.televisa.com/foro-tv-fractal/1503/segunda-edicion-hackcdmx/
+description: PLOG is a mobile http://noticieros.televisa.com/foro-tv-fractal/1503/segunda-edicion-hackcdmx/
 
 ---

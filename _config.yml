@@ -10,9 +10,14 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 70B1BA #80B3FF
-  secondary: 7A626E #FD6E8A
-  secondary-dark: 4D6A6E #A2122F
+  #primary: 00A2D1 #80B3FF
+  #secondary: FBB351 #FD6E8A
+  #secondary-dark: 2E2E2E #A2122F
+  primary: D2043A #80B3FF
+  secondary: 8D163D #FD6E8A
+  secondary-dark: 2D1336 #A2122F
+  bg: 3C1A46 #A2122F
+  text: 18BC9C #A2122F
 
 # Footer settings
 footer:
@@ -28,7 +33,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/Alex.spoon
   - title: github
-    url: https://github.com/monkeythecoder/
+    url: https://github.com/monkeythecoder
   - title: linkedin
     url: https://www.linkedin.com/in/danieltorreshdez
 
@@ -37,7 +42,7 @@ address:
   - line: Puebla, México 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
