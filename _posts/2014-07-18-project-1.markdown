@@ -7,6 +7,6 @@ alt: image-alt
 project-date: March 2015
 client: HackCDMX
 category: Web Development and Mobile Application Development
-description: 
+description: http://noticieros.televisa.com/foro-tv-fractal/1503/segunda-edicion-hackcdmx/
 
 ---
