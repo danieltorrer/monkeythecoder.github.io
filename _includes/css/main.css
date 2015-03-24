@@ -16,26 +16,22 @@ p.small {
     font-size: 16px;
 }
 
-.form-control{
-    background-color: #{{ site.color.text }};
-}
-
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: white;
+    color:  #{{ site.color.text }};
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  background: #{{ site.color.bg }};
+  background: #{{ site.color.text }};
   color: white;
   text-decoration: none;
 }
 .navbar-default .navbar-nav>li>a:hover{
-    background: #{{ site.color.bg }};
+    background: #{{ site.color.text }};
     color: white;
     text-decoration: none;
 }
@@ -213,6 +209,10 @@ header .intro-text .skills {
 
 section {
     padding: 100px 0;
+}
+
+section.bg,
+.footer-above.bg{
     background: #{{ site.color.bg }};
 }
 
@@ -302,6 +302,12 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
+.btn-success {
+  color: #ffffff;
+  background-color: #{{ site.color.text }};
+  border-color: #{{ site.color.text }};
+}
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
@@ -358,9 +364,12 @@ section.success {
     top: 0;
     opacity: 1;
 }
-
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.text }};
+}
+
+label{
+    color : black;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -484,4 +493,12 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.bg .form-control{
+    color: white;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  background-color: #{{ site.color.bg }};
 }

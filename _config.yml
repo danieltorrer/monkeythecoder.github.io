@@ -19,6 +19,7 @@ color:
   bg: 3C1A46 #A2122F
   #text: 18BC9C #A2122F
   text: 1dbda1 #A2122F
+  text-link: FFDC00 #A2122F
 
 
 # Footer settings
