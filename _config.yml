@@ -17,7 +17,9 @@ color:
   secondary: 8D163D #FD6E8A
   secondary-dark: 2D1336 #A2122F
   bg: 3C1A46 #A2122F
-  text: 18BC9C #A2122F
+  #text: 18BC9C #A2122F
+  text: 1dbda1 #A2122F
+
 
 # Footer settings
 footer:

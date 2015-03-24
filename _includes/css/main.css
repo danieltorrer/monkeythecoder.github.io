@@ -26,7 +26,18 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.text }};
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  background: #{{ site.color.bg }};
+  color: white;
+  text-decoration: none;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    background: #{{ site.color.bg }};
+    color: white;
+    text-decoration: none;
 }
 
 h1,
