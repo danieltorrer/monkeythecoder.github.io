@@ -1,13 +1,27 @@
 ---
 title: PLOG
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: plog.png
-alt: image-alt
-project-date: March 2015
-client: HackCDMX
-category: Web Development and Mobile Application Development
-description: PLOG is a mobile http://noticieros.televisa.com/foro-tv-fractal/1503/segunda-edicion-hackcdmx/
 
+layout: default
+
+modal-id: 1
+
+date: 2014-07-18
+
+img: plog.png
+
+alt: image-alt
+
+project-date: March 2015
+
+client: HackCDMX
+
+category: Web Development and Mobile Application Development
+
+description: PLOG is a web and mobile application that offers you a way to contact your familiars in case of an incident simply by unplugging your earphones. The android app sends a SMS to the desired familiars and also sends a notification to the web app, this notification is displayed in real time in said wep app. Mobile development was at charge of @javpoblano.
+
+descripcion: PLOG es una aplicacion movil y web que te ofrece una manera sencilla de contactar a tus familiares en caso de un incidente, la alerta se envia simplemente al desconectar tus audifonos. El desarrollo movil estuvo a cargo de @javpoblano.
+
+technologies: stack.png
+
+screens: screen
 ---
