@@ -15,11 +15,19 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <p class="post-description">{{ post.description }}</p>
+
+                            <hr>
+                            
+                            <p class="post-description">{{ post.descripcion }}</p>
+                            
+                            <img src="img/portfolio/{{ post.img_1 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img_2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img_3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
+                                    <strong>{{ post.client }}</strong>
                                 </li>
                                 <li>Date:
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
@@ -30,6 +38,10 @@
                                     </strong>
                                 </li>
                             </ul>
+                            
+                            
+
+
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
