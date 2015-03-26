@@ -20,7 +20,7 @@ client: <a href="http://labcd.mx/hackcdmx/"> HackCDMX </a>
 
 category: Web Development and Mobile Application Development
 
-description: PLOG is a web and mobile application that offers you a way to contact your familiars in case of an incident simply, by unplugging your earphones. The android app sends a SMS to the desired familiars and also sends a notification to the web app, this notification is displayed in real time in said wep app. Mobile development was at charge of @javpoblano and design by @didierconde.
+description: PLOG is a web and mobile application that offers you a simple way to contact your family in case of an incident, by unplugging your earphones the android app sends a SMS to the desired familiars and also sends a notification to the web app, this notification is displayed in real time in said wep app Mobile development was at charge of @javpoblano and design by @didierconde.
 
 descripcion: PLOG es una aplicacion movil y web que te ofrece una manera sencilla de contactar a tus familiares en caso de un incidente, la alerta se envia simplemente al desconectar tus audifonos. La aplicación de android envia un mesnaje de texto a los contactos seleccionados y a la aplicación web, esta notificación es desplegada en tiempo real en dicha aplicacion. El desarrollo movil estuvo a cargo de @javpoblano y el diseño a cargo de @didierconde.
 
