@@ -68,6 +68,10 @@ hr.star-primary:after {
     font-size: 2em;
 }
 
+hr.star-light.header:after {
+    content: "";
+}
+
 hr.desktop:after{
     content: "\f108";
 }
@@ -117,7 +121,7 @@ hr.star-primary:after {
 }
 
 header {
-    background: url(img/bg_ekzfotos.jpg) no-repeat center bottom fixed;
+    background: url(img/bg_ekzfotos2.jpg) no-repeat center bottom fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
